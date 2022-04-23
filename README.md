@@ -1,6 +1,7 @@
 <div align="center">
   
   <h1> Currículo </h1>
+  <a href="https://pedro-costa22.github.io/curriculo-web/">Visualizar</a>
 
 <p> Currículo versão web, utilizando HTML, CSS e JavaScript </p>
 
